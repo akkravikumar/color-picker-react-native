@@ -1,25 +1,35 @@
 {
-  "name": "ColorPicker",
+  "name": "colorSelector",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
   },
   "dependencies": {
-    "d3": "^5.9.1",
+    "@react-native-community/masked-view": "^0.1.6",
+    "d3": "^5.15.0",
     "graph": "^0.2.0",
-    "react": "16.6.3",
-    "react-native": "0.58.4",
-    "react-native-gesture-handler": "^1.0.15",
-    "react-native-svg": "^9.2.4"
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-gesture-handler": "^1.5.6",
+    "react-native-reanimated": "^1.7.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.0.0-beta.2",
+    "react-native-svg": "^11.0.1"
   },
   "devDependencies": {
-    "babel-core": "7.0.0-bridge.0",
-    "babel-jest": "24.1.0",
-    "jest": "24.1.0",
-    "metro-react-native-babel-preset": "0.51.1",
-    "react-test-renderer": "16.6.3"
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "@react-native-community/eslint-config": "^0.0.7",
+    "babel-jest": "^25.1.0",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "react-test-renderer": "16.9.0"
   },
   "jest": {
     "preset": "react-native"
