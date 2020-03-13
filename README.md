@@ -10,7 +10,7 @@ Drag and Drop color selector in react native
 
 React Native Project for Collision Reporter App (CRA)
 
-# CRA-ReactNative:app
+# Project structure
 
 This is a sample template for CRA-app - Below is a brief explanation of what we have generated for you:
 
@@ -21,7 +21,7 @@ This is a sample template for CRA-app - Below is a brief explanation of what we 
 ├── ios                       <-- This contains ios files
 ├── node_modules              <-- This folder contains list of library installed
 ├── src                       <-- Source code for a react native app
-├   ├── component             <-- component function code
+├   ├── component             <-- common component of screen source code
 ├   ├── mockData              <-- This folder contains mock json files
 ├   ├── screens               <-- This for screens folder
 ├   ├── utils                 <-- utils folder
