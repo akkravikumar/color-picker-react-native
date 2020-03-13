@@ -21,13 +21,13 @@ This is a sample template for CRA-app - Below is a brief explanation of what we 
 ├── ios                       <-- This contains ios files
 ├── node_modules              <-- This folder contains list of library installed
 ├── src                       <-- Source code for a react native app
-├   ├── component           <-- component function code
-├   ├── mockData            <-- This folder contains mock json files
-├   ├── screens             <-- This for screens folder
-├   ├── utils               <-- utils folder
+├   ├── component             <-- component function code
+├   ├── mockData              <-- This folder contains mock json files
+├   ├── screens               <-- This for screens folder
+├   ├── utils                 <-- utils folder
 ├── router.js                 <-- Navigation file
 ├── .eslintrc.js              <-- React Native specific linting rules
-├── package.json               <-- This file configure the library with react native app
+├── package.json              <-- This file configure the library with react native app
 ```
 
 ## Requirements
