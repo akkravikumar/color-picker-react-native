@@ -16,18 +16,18 @@ This is a sample template for CRA-app - Below is a brief explanation of what we 
 
 ```bash
 .
-â”œâ”€â”€ android                   <-- This folder contains andfoid files
-â”œâ”€â”€ assets                    <-- This folder contains assets like images
-â”œâ”€â”€ ios                       <-- This contains ios files
-â”œâ”€â”€ node_modules              <-- This folder contains list of library installed
-â”œâ”€â”€ src                       <-- Source code for a react native app
-â”‚   â”œâ”€â”€ component           <-- component function code
-â”‚   â”œâ”€â”€ mockData            <-- This folder contains mock json files
-â”‚   â””â”€â”€ screens             <-- This for screens folder
-â”‚   â””â”€â”€ utils               <-- utils folder
-â”œâ”€â”€ router.js                 <-- Navigation file
-â”œâ”€â”€ .eslintrc.js              <-- React Native specific linting rules
-â”œâ”€â”€ package.json               <-- This file configure the library with react native app
+├── android                   <-- This folder contains andfoid files
+├── assets                    <-- This folder contains assets like images
+├── ios                       <-- This contains ios files
+├── node_modules              <-- This folder contains list of library installed
+├── src                       <-- Source code for a react native app
+├   ├── component           <-- component function code
+├   ├── mockData            <-- This folder contains mock json files
+├   ├── screens             <-- This for screens folder
+├   ├── utils               <-- utils folder
+├── router.js                 <-- Navigation file
+├── .eslintrc.js              <-- React Native specific linting rules
+├── package.json               <-- This file configure the library with react native app
 ```
 
 ## Requirements
