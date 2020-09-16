@@ -1,5 +1,5 @@
 # Drag and Drop color selector in React Native
-Drag and Drop color selector in react native
+Drag and Drop color selector in react nativeee
 
 ![Drag & Drop color selector](https://i.imgur.com/inehBIf.gif)
 
